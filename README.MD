@@ -13,9 +13,10 @@ make
 
 #### ctext `<filename>`
 
- ### Keys:<br />
-    CTRL-S: Save <br/>
-    CTRL-Q: Quit<br />
-    CTRL-F: Find string in file<br /> (ESC to exit search, arrows to navigate)
+ ### Keys:
+    CTRL-S: Save
+    CTRL-Q: Quit
+    CTRL-F: Find string in file
+    (ESC to exit search, arrows to navigate)
 
 
