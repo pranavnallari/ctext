@@ -1,4 +1,4 @@
-#define CTEXT_VERSION "0.0.1"
+#define CTEXT_VERSION "1.0"
 
 #ifdef __linux__
 #define _POSIX_C_SOURCE 200809L
