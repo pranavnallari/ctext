@@ -1,8 +1,7 @@
 # CText - A Simple Text Editor with Syntax Highlighting
 
 **Version:** 1.0  
-**Platform:** Linux  
-**Author:** [Your Name Here]
+**Platform:** Linux
 
 CText is a simple terminal-based text editor written in C with syntax highlighting for C/C++ code. The editor operates in raw mode and supports basic functionalities like opening files, editing text, and syntax highlighting based on file type. It includes support for single-line and multi-line comments, strings, numbers, and keywords.
 
